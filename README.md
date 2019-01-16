@@ -1,4 +1,4 @@
-# time-manage
+# Time-Manage
 new repository
 
 
